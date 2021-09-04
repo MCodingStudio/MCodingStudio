@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mayank @MCodingStudioDeveloper
-- 👀 I’m interested in Coding,Web Development
-- 🌱 I’m currently learning Web Development Frameworks
-- 📫 Reach me with My Gmail - MCodingStudio
+- 👋 Hi, I’m Mayank @MCodingStudioDeveloper 
+- 🚀 We are currently working on upgrading MCodingStudio Website
+- 🥇 Learn - Build - Improve your coding skills with MCodingStudio
+- 📫 Contact us with email -> mcodingstudio@gmail.com
